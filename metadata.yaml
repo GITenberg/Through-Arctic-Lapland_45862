@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '4423'
     url: http://www.gutenberg.org/2009/agents/4423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45862#Through-Arctic-Lapland
 gutenberg_issued: '2014-06-02'
 gutenberg_type: Text
 identifiers:
