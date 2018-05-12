@@ -1,0 +1,32 @@
+_repo: Through-Arctic-Lapland_45862
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45862-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hyne, Charles John Cutcliffe Wright
+    aliases:
+    - Cutcliffe-Hyne, C. J.
+    - Hyne, C. J. Cutcliffe (Charles John Cutcliffe)
+    - Hyne, Cutcliffe
+    - Cutcliffe-Hyne, Charles John
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '4423'
+    url: http://www.gutenberg.org/2009/agents/4423
+description: ''
+gutenberg_issued: '2014-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45862'
+  lccn: 05010386
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Lapland -- Description and travel'
+title: Through Arctic Lapland
+url: http://www.gutenberg.org/ebooks/45862
